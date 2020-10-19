@@ -1,3 +1,1 @@
-Hello, Git
-Hello again!
-Line Three
+Feature 1
